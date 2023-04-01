@@ -1,0 +1,33 @@
+h1 {
+    color:#523982
+}
+h2{
+    color:darkviolet
+}
+*{
+    border: solid;
+    border-color: blue;
+}
+
+.header{
+    background-color: burlywood;
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu{
+    background-color: aquamarine;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+     justify-content:space-evenly;
+    
+}
+
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
